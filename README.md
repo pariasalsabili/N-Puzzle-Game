@@ -2,6 +2,8 @@
 
 A web-based version of the classic *n-puzzle* sliding puzzle game. Choose between 3x3, 4x4, and 5x5 grids, and try to arrange the numbered tiles in ascending order. The game tracks your moves, time, and score based on performance.
 
+![enter image description here](https://s8.uupload.ir/files/screenshot_%2819%29_298d.png)
+
 ## Features
 
 - **Multiple Grid Sizes**: Play on 3x3, 4x4, or 5x5 grids.
